@@ -3,3 +3,4 @@ hi
 たこ焼き
 yakisoba
 豆腐
+焼き鳥
