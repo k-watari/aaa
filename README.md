@@ -4,3 +4,4 @@ hi
 yakisoba
 豆腐
 焼き鳥
+焼きそば
